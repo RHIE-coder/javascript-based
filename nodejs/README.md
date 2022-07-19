@@ -1,3 +1,3 @@
 # Node.js
 
- - [install Ubuntu](./docs/installation.md)
+ - [installation](./docs/installation.md)
