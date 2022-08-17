@@ -1,5 +1,4 @@
 const Redis = require("ioredis");
-const {promisify} = require('util');
 
 (async()=>{
     const redis = new Redis({
